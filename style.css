@@ -886,3 +886,7 @@ object {
 .gallery-caption {
 	display: block;
 }
+/*Evan's changes*/
+div {
+	background-color: red;
+}
